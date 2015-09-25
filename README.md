@@ -1,3 +1,4 @@
 # jenkins-test
 Jenkins test
--test4
+
+added deploy script
