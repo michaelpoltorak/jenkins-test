@@ -1,0 +1,5 @@
+cd ~/Projects/node/jenkins-test
+git pull
+npm install --production
+forever restartall
+exit
